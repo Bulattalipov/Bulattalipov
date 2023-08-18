@@ -1,16 +1,15 @@
-Привет!
+<h1>Привет!
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
-**Bulattalipov/Bulattalipov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Мой стек</h2>
+<ul>
+        <li>HTML</li>
+        <li>CSS (SCSS)</li>
+        <li>JS (ES6)</li>
+        <li>Pixel-Perfect вёрстка</li>
+</ul>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Статистика</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bulattalipov)](https://github.com/Bulattalipov/github-readme-stats)
