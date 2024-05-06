@@ -6,6 +6,7 @@
         <li>HTML</li>
         <li>CSS (SCSS)</li>
         <li>JS (ES6)</li>
+        <li>Vue 3</li>
         <li>Pixel-Perfect вёрстка</li>
 </ul>
 
